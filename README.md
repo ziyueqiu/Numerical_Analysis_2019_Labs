@@ -1,4 +1,4 @@
-# Numerical_Analysis_2020_Labs
+# Numerical_Analysis_2019_Labs
 Numerical Analysis
 
 USTC 2019 Fall
